@@ -31,5 +31,5 @@ A folder **Data_distances** contains another 9 csv files (compressed as .zip) wi
 
 | index | region code | zone type | code municipality | code state | minimum_dist | geometry |
 |:-----:|:-----------:|:---------:|:-----------------:|:----------:|:------------:|:--------:|
-| 0 | 110009812000003 | RURAL | 1100098.0 | 11 | 1.7195346365794169 | MULTIPOLYGON (((-60.8957500655381... |
-| 1 | 110009815000001 | URBANO | 1100098.0 | 11 | 0.198243016483891 | MULTIPOLYGON (((-60.74999357721507... |
+| 0 | 110009812000003 | RURAL | 1100098.0 | 11 | 1.7195346 | MULTIPOLYGON (((-60.8957500655381... |
+| 1 | 110009815000001 | URBANO | 1100098.0 | 11 | 0.198243 | MULTIPOLYGON (((-60.74999357721507... |
